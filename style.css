@@ -43,8 +43,9 @@ section .container .col-lg-12 {
 
 .home-food img {
     border-radius: 50%;
-    max-width: 100%;
-    height: auto;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
 }
 
 footer {
